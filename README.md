@@ -38,7 +38,7 @@ To-Do-List-App/
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/To-Do-List-App.git
+   git clone https://github.com/Sanskar-2104/To-Do-List-App.git
    ```
 
 2. **Navigate to the project directory:**
